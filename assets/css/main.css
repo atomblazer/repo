@@ -1,0 +1,171 @@
+ #map-canvas { 
+    padding: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+  height:400px;
+  margin-bottom:100px;
+  }
+  
+  p{
+    text-align: center;
+    margin: 10px;
+    color: black;
+    font-style: italic;
+  } 
+  label{
+    font-weight: inherit;
+  }
+  .jumbotron{
+    background-color: #FFFFFF;
+    box-shadow: 0px 7px 5px #000000;
+    font-size: 14px;
+  }
+  .well{
+    margin: 0px;
+  }
+  .alert-warning{
+    padding: 0px;
+    text-align: center;
+  }
+  .form-control {
+    display: table-cell;
+  }
+  .image-container{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 25px;
+  }   
+  .image-container img{
+    width: 100%;
+    margin: 0px 20px;
+  }
+  .container .jumbotron {
+    border-radius: 35px;
+    padding: 30px;
+  }
+  .navbar-inverse .navbar-nav>li>a {
+    color: #000;
+  }
+  .input-group{
+    display: inherit;
+  }
+  .btn-primary {
+    background-image: linear-gradient(to bottom,#145588 0,#145588 100%);
+    background-repeat: repeat-x;
+    text-align: center;
+    border-color: #000000;
+    width: 150px;
+    height: 40px;
+  }
+  .navbar-inverse{
+    background-image: linear-gradient(to bottom,#145588 0,#145588 100%);            }
+    .navbar-inverse .navbar-brand {
+      color: #FFF;
+      }}
+      .navbar-nav>li>a {
+        color: #FFF;
+      }
+
+body {
+    background: url(../img/bg_honeycomb.png);
+}
+ .login .modal, .create-account .modal {
+    top: 20%;
+    display: block;
+    border-width: 200px;
+}
+
+.submit-model-dialog{
+
+  right: auto;
+  left: 50%;
+  width: 60%;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.modal-header {
+    border-bottom: 1px solid #9c9c9c;
+}
+
+.modal-footer {
+    border-top: 1px solid #9c9c9c;
+    margin-top: 0;
+}
+
+.modal-title {
+    width: 100%;
+    background: #e6ecef;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 2px solid #bac5cc;
+    line-height: 40px;
+    text-align: center;
+    color: #333;
+}
+
+.modal-body label {
+    width: 30%;
+    float: left;
+}
+.modal-body label span {
+    color: #979797;
+    font-size: .9em;
+    font-weight: normal;
+}
+
+.modal-body input {
+    width: 60%;
+    float: right;
+    background: #f2f2f2;
+    border: 2px solid #eaeaea;
+    height: 50px;
+}
+
+.modal-body hr {
+    margin: 21px -20px;
+    border-color: #9c9c9c;
+}
+
+.form-horizontal .form-group {
+    margin: 0;
+}
+
+button#create-account, button#return-to-login {
+    position: absolute;
+    left: 20px;
+}     
+.submit-modal-body label {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.submit-modal-body label span {
+    color: #979797;
+    font-size: .9em;
+    font-weight: normal;
+}
+
+
+.submit-modal-body hr {
+    margin: 21px -20px;
+    border-color: #9c9c9c;
+}
+  .submit-modal-body input {
+    width: 70%;
+    float: right;
+    background: #f2f2f2;
+    border: 2px solid #eaeaea;
+    height: 50px;
+}
+
+#heatmapArea {
+        padding: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+  height:400px;
+  margin-bottom:100px;
+      }
